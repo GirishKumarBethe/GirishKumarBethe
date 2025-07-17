@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**GirishKumarBethe/GirishKumarBethe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Girish Kumar Bethe
 
-Here are some ideas to get you started:
+### 💻 Java Backend Developer | Spring Boot Enthusiast | API Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 1.5 years of backend development experience  
+🔐 Spring Boot + JWT + MySQL  
+📊 Built real-time banking and ML-based fraud detection systems
+
+## 📂 Projects
+
+### 🔗 [Banking App](https://github.com/YOUR_USERNAME/banking-app)
+Spring Boot | MySQL | JWT
+
+### 🔗 [Fraud Detection ML](https://github.com/YOUR_USERNAME/fraud-detection-ml)
+Python | Scikit-Learn
+
+### 🔗 [AES Encryption](https://github.com/YOUR_USERNAME/aes-encryption-java)
+Java | Security
+
+---
+
+📫 Connect with me: [LinkedIn](https://linkedin.com/in/girish-kumar-bethe-14097b1a1)
